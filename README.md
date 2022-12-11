@@ -1,6 +1,6 @@
 # Python learning
 
-Hello dears, this will be my pseudo-blog about my way through the Python. I was programming in Python before, but I want to start from scratch since I use C# and ASP.NET Core for the development. For now I want to learn Python due some preferences based on Linux development and so. 
+Hello deers, this will be my pseudo-blog about my way through the Python. I was programming in Python before, but I want to start from scratch since I use C# and ASP.NET Core for the development. For now I want to learn Python due some preferences based on Linux development and so. 
 
 This "blog" will be written from my point of view where I will be describing everything for me and my notices and some examples and differences from C#. I will probably not learn `Django` and web development with Python since I really prefere the `ASP.NET Core` with `LINQ` and `Entity Framework`, so...
 
