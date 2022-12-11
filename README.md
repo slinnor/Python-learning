@@ -25,7 +25,7 @@ Python can be downloaded from it's official course or installed via `terminal`. 
 
 For the development I will mostly use [Visual Studio](https://visualstudio.microsoft.com/)
 
-You can choose one of free IDE for the Python development such as [Visual Studio Code](https://code.visualstudio.com/) or [JetBrains PyCharm[(https://www.jetbrains.com/pycharm/)
+You can choose one of free IDE for the Python development such as [Visual Studio Code](https://code.visualstudio.com/) or [JetBrains PyCharm](https://www.jetbrains.com/pycharm/)
 
 It's all about you preferences and feel free to experiment with each IDE what would YOU prefere the most.
 
