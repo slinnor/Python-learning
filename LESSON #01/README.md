@@ -34,7 +34,7 @@ Going ahead and choosing the Python application
 
 In the next step I will call my project as `Hello World` and Create the project.
 
-## Inside the file
+### Inside the file
 
 There are no requirements like importing some libraries or aditional files.
 
@@ -51,7 +51,7 @@ Console.WriteLine("Hello world!");
 
 Also notice that in C# we are using semicolon after ending the command this is not in Python so it stays clear!
 
-## Run our program
+### Run our program
 
 It is very simple to run our Python program, the only thing you have to do is to click the "play" button ![image](https://user-images.githubusercontent.com/57287296/206917341-aed82890-a2d8-48d0-83fd-f61b9c4cc397.png)
  in your IDE. In Visual Studio I will choose the second icon with the stroke and transparent background. 
