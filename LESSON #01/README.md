@@ -68,7 +68,7 @@ It is very simple to run our Python program, the only thing you have to do is to
  ```
  Make sure you will write correctly the filename and it's path. I recommend to move to the folder and then running the command.
 
-## Excersise
+## Exercise
 
 So the task for your lesson now is to setup your IDE and run the first program. You can also try to print different strings for example
 ```
