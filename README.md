@@ -13,6 +13,8 @@ For the Python development I will use the newest version of `Python` which is `3
 `Python` can be downloaded from it's official course or installed via `terminal`. So go ahead and visit www.python.org to download the newest version of `Python`.
 
 - `Python` for `Windows` can be downloaded from the official site https://www.python.org/downloads/windows/
-- `Python` for `Linux` can be installed via terminal by running `sudo apt install python3 -y`
-- - *NOTE: There is an attribute `-y` which will confirm the installation of the package so you will skip that step.*
+- `Python` for `Linux` can be installed via terminal by running 
+```$ apt install python3 -y```
+
+*NOTE: There is an attribute `-y` which will confirm the installation of the package so you will skip that step.*
 
