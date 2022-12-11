@@ -14,7 +14,7 @@ For the Python development I will use the newest version of Python which is `3.1
 
 Python can be downloaded from it's official course or installed via `terminal`. So go ahead and visit www.python.org to download the newest version of `Python`.
 
-- `Python` for `Windows` can be downloaded from the official site https://www.python.org/downloads/windows/ or use MS Store instead: https://www.microsoft.com/store/productId/9NRWMJP3717K
+- `Python` for `Windows` can be downloaded from the [Python official site](https://www.python.org/downloads/windows/) or use [MS Store](https://www.microsoft.com/store/productId/9NRWMJP3717K) instead
 - `Python` for `Linux` can be installed via terminal by running 
 
 ```
