@@ -4,6 +4,8 @@ Hello deers, this will be my pseudo-blog about my way through the Python. I was 
 
 This "blog" will be written from my point of view where I will be describing everything for me and my notices and some examples and differences from C#. I will probably not learn `Django` and web development with Python since I really prefere the `ASP.NET Core` with `LINQ` and `Entity Framework`, so...
 
+Every LESSON contains a README.md file where will be described the lesson. If there will be required some additional files it will be written everything there.
+
 ## Python version
 
 For the Python development I will use the newest version of Python which is `3.11.1` for Linux `3.10.8`. 
@@ -32,4 +34,4 @@ It's all about you preferences and feel free to experiment with each IDE what wo
 
 ## Let's shake the snake!
 
-Alright folks! Have you installed everuything? If so, let's shake the snake!
+Alright folks! Have you installed everything? If so, let's shake the snake!
