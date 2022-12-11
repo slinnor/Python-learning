@@ -30,5 +30,6 @@ You can choose one of free IDE for the Python development such as [Visual Studio
 It's all about you preferences and feel free to experiment with each IDE what would YOU prefere the most.
 
 
+## Let's shake the snake!
 
 Alright folks! Have you installed everuything? If so, let's shake the snake!
